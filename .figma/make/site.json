@@ -1,0 +1,10 @@
+{
+  "description": "AI-powered platform for detecting fake news in regional languages and providing real-time cyber threat protection, ensuring user safety and trust.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
